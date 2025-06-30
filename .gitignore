@@ -1,0 +1,7 @@
+# Ignore only large or unnecessary files
+*.aux.xml
+*.zip
+*.ipynb_checkpoints/
+__pycache__/
+.env
+.DS_Store
