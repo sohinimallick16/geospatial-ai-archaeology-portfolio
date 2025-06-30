@@ -1,4 +1,4 @@
-# NDVI-Based Vegetation Masking – Hampi
+# NDVI-Based Vegetation Masking – Archaeological Site of Hampi, India
 
 This project demonstrates the use of NDVI (Normalized Difference Vegetation Index) to identify and mask vegetated areas around the Hampi Group of Monuments (UNESCO World Heritage Site) using Sentinel-2 satellite imagery and Python.
 
@@ -47,7 +47,7 @@ To calculate NDVI from Sentinel-2 bands and generate a vegetation mask that high
 
 ## 🔄 Workflow
 
-1. Download Sentinel-2 bands for Hampi
+1. Download Sentinel-2 bands for Hampi from [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/)
 2. Clip B04 and B08 rasters to AOI
 3. Calculate NDVI: `(NIR - Red) / (NIR + Red)`
 4. Generate vegetation mask: NDVI > 0.4
