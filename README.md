@@ -24,3 +24,8 @@ This portfolio showcases a progressive series of geospatial AI projects focused 
 **Objective**: Simulate lines of sight from key monuments (Virupaksha Temple & Hemakuta Hill).  
 **Method**: Perform viewshed analysis using GRASS `r.viewshed` in QGIS.  
 **Output**: Visibility maps.
+
+### 4. [NDVI Temporal Change Analysis – Hampi (Wet vs. Dry Season)](04_ndvi_change_hampi/README.md)  
+**Objective**: Assess how vegetation coverage changes between seasons and how this affects archaeological visibility.  
+**Method**: Compute NDVI for two Sentinel-2 scenes (wet and dry season), calculate pixel-wise difference, and visualize results.  
+**Output**: NDVI maps for each season, NDVI difference map, and histograms showing vegetation fluctuation.
