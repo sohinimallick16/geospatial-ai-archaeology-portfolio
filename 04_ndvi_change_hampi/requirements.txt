@@ -1,0 +1,7 @@
+numpy
+matplotlib
+rasterio
+geopandas
+jupyter
+notebook
+ipython
