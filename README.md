@@ -1,4 +1,4 @@
-# 🧭 Geospatial AI for Archaeology
+# Geospatial AI for Archaeology
 
 This portfolio showcases a progressive series of geospatial AI projects focused on archaeological landscape analysis. Each project leverages satellite imagery, elevation models, and open-source geospatial tools (QGIS, Python, GRASS GIS) to explore visibility, vegetation, terrain, and temporal change in cultural heritage sites — starting with the UNESCO World Heritage site of **Hampi, India**.
 
