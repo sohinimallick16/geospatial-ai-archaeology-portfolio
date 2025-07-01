@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hampi_boundary",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "Hampi AOI" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 76.455, 15.3458 ], [ 76.481, 15.3458 ], [ 76.481, 15.324 ], [ 76.455, 15.324 ], [ 76.455, 15.3458 ] ] ] ] } }
+]
+}

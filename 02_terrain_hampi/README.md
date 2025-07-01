@@ -1,4 +1,4 @@
-# 🏔️ Project 2: Terrain Analysis of Hampi Using DEM
+# Terrain Analysis of Hampi Using DEM
 
 This project performs a terrain analysis of the UNESCO World Heritage Site of Hampi using publicly available SRTM elevation data. It demonstrates how elevation, slope, and terrain direction (aspect) contribute to archaeological interpretation.
 

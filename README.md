@@ -1,8 +1,26 @@
-# Geospatial AI for Archaeology 
+# 🧭 Geospatial AI for Archaeology
 
-This portfolio showcases a series of geospatial AI projects focused on archaeological landscape analysis using open-source satellite, LiDAR, and elevation data.
+This portfolio showcases a progressive series of geospatial AI projects focused on archaeological landscape analysis. Each project leverages satellite imagery, elevation models, and open-source geospatial tools (QGIS, Python, GRASS GIS) to explore visibility, vegetation, terrain, and temporal change in cultural heritage sites — starting with the UNESCO World Heritage site of **Hampi, India**.
 
-## Projects
+---
 
-1. [NDVI-Based Vegetation Masking – Hampi](01_ndvi_hampi/README.md)
+## 📁 Projects Overview
 
+### 1. [NDVI-Based Vegetation Masking – Hampi](01_ndvi_hampi/README.md)
+**Objective**: Identify vegetated vs. non-vegetated areas using Sentinel-2 satellite imagery.  
+**Method**: Calculate NDVI in Python to support further archaeological feature detection.  
+**Output**: A binary vegetation mask map and NDVI raster visualized in QGIS.
+
+---
+
+### 2. [Terrain Analysis Using DEM – Hampi](02_terrain_hampi/README.md)
+**Objective**: Understand elevation patterns and terrain variation across the Hampi landscape.  
+**Method**: Generate hillshades and elevation histograms using DEM data.  
+**Output**: A shaded relief map and statistical terrain profile of the area.
+
+---
+
+### 3. [Viewshed Analysis – Hampi](03_viewshed_hampi/README.md)
+**Objective**: Simulate lines of sight from key monuments (Virupaksha Temple & Hemakuta Hill).  
+**Method**: Perform viewshed analysis using GRASS `r.viewshed` in QGIS.  
+**Output**: Visibility maps.
