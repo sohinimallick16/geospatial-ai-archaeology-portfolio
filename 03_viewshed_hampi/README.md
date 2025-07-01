@@ -8,7 +8,7 @@ This project explores the visual dominance of key monuments in the Hampi heritag
 
 To model and compare the areas visible from:
 - **Virupaksha Temple** (~50 m high)
-- **Hemakuta Hill** (~60m high~)
+- **Hemakuta Hill** (~60m high)
 
 This helps assess:
 - How these monuments command the surrounding landscape
