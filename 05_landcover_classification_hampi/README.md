@@ -85,7 +85,7 @@ To apply **unsupervised k-means clustering** to selected Sentinel-2 bands in ord
 
 ## 📈 Analysis & Interpretation
 
-A full breakdown of the classification accuracy, limitations, and archaeological implications is available in the [Analysis Report →](analysis.md).
+A full breakdown of the classification accuracy, limitations, and archaeological implications is available in the [Analysis Report](analysis.md).
 
 ---
 
