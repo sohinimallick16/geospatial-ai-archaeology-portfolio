@@ -64,9 +64,11 @@ To apply **unsupervised k-means clustering** to selected Sentinel-2 bands in ord
 
 | Script | Description |
 |--------|-------------|
+| `band_stacking.py` | Stacks selected Sentinel-2 bands (e.g., Blue, Green, Red, NIR) into a multi-band raster for classification. |
 | `kmeans_classifier.py` | Applies k-means clustering on stacked bands and saves the classification raster |
 | `kmeans_analyse.py` | Visualizes the classified output and generates a color-coded legend |
 | `paths_to_data_results.py` | Manages consistent paths to all data and result files |
+| `band_stack.ipynb` | Jupyter notebook to load, stack, and export band rasters for use in unsupervised classification. |
 | `kmeans_classify.ipynb` | Notebook to preprocess bands and run classification |
 | `kmeans_analyse.ipynb` | Notebook to generate histograms and perform visual interpretation |
 
@@ -85,7 +87,7 @@ To apply **unsupervised k-means clustering** to selected Sentinel-2 bands in ord
 
 ## 📈 Analysis & Interpretation
 
-A full breakdown of the classification accuracy, limitations, and archaeological implications is available in the [Analysis Report →](analysis.md).
+A full breakdown of the classification accuracy, limitations, and archaeological implications is available in the [Analysis Report](analysis.md).
 
 ---
 
