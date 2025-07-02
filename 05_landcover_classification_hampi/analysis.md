@@ -14,7 +14,7 @@ The classification output assigned each pixel to one of five clusters (0–4). T
 | 1        | Water                        | 13,000                 | Inflated by misclassifications |
 | 2        | Mixed / Transitional         | 4,800                  | Least defined |
 
-![Land Cover Histogram](../results/kmeans_class_distribution.png)
+![Land Cover Histogram](results/kmeans_class_distribution.png)
 
 ---
 
@@ -30,7 +30,7 @@ The table below outlines the interpreted categories based on visual inspection o
 | 3        | **Rocky Terrain**             | Captures some granitic outcrops but fails to identify many rocky patches north of the river. |
 | 4        | **Built-up / Habitation**     | Successfully marks modern habitation and all the major temple complexes, though overlaps with exposed soil and unpaved surfaces. A few major temple ruins missclassified as mixed |
 
-![Land Cover Classification](../results/landcover_hampi.png)
+![Land Cover Visualisation](results/landcover_classification.png)
 ---
 
 ## Key Observations
