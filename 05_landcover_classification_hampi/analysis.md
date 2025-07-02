@@ -30,7 +30,7 @@ The table below outlines the interpreted categories based on visual inspection o
 | 3        | **Rocky Terrain**             | Captures some granitic outcrops but fails to identify many rocky patches north of the river. |
 | 4        | **Built-up / Habitation**     | Successfully marks modern habitation and all the major temple complexes, though overlaps with exposed soil and unpaved surfaces. A few major temple ruins missclassified as mixed |
 
-![Land Cover Visualisation](../results/landcover_classification.png)
+![Land Cover Visualisation](results/landcover_classification.png)
 ---
 
 ## Key Observations
