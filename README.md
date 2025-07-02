@@ -34,7 +34,7 @@ This portfolio showcases a progressive series of geospatial AI projects focused 
 
 ---
 
-### 5. [Land Cover Classification Using Sentinel-2 – Hampi](05_landcover_classification_hampi/README.md)  
+### 5. [Land Cover Classification Using K-means Clustering](05_landcover_classification_hampi/README.md)  
 **Objective**: Identify major land cover types (vegetation, water, rock, built-up) around Hampi using unsupervised classification.  
 **Method**: Stack Sentinel-2 bands (Blue, Green, Red, NIR), apply k-means clustering to group pixels into 5 classes, and visualize results.  
 **Output**: Classified land cover map, pixel count histogram, and [analysis](05_landcover_classification_hampi/analysis.md) interpreting class patterns and archaeological relevance.
